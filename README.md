@@ -46,7 +46,7 @@ urban cities. Suburban cities' average fare per driver is about $40.
  how fares in rural cities totalled around $300 from beginning to end during the same time period. The orange trend shows how the total fares in suruban cities fall in between urban and 
 rural cities: around $700 to $1,300 from beginning to end during this time. The chart further demonstrates similar peak times in all these types of cities. One notable peak in total fare is among urban, suburban, and rural cities occurred sometime at the end of February 2019.
 
-**A multiple-line graph that shows the total weekly fares for each city type**
+**A multiple-line chart of total fares for each city type**
 
 ![Fig8.png](https://github.com/Praveeja-Sasidharan-Suni/PyBer_Analysis/blob/main/Images/Fig8.png?raw=true)
 
