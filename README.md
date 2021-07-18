@@ -44,8 +44,9 @@ urban cities. Suburban cities' average fare per driver is about $40.
 -The multiple-line chart "Total Fare by City Type" further supports the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019
  and April 2019. The yellow trend shows how fares in urban cities totalled from around $1,600 to $2,300 during this five-month period. In contrast, the blue trend shows
  how fares in rural cities totalled around $300 from beginning to end during the same time period. The orange trend shows how the total fares in suruban cities fall in between urban and 
-rural cities: around $700 to $1,300 from beginning to end during this time. The chart further demonstrates similar peak times in all these types of cities. One notable peak in total fare
-is among urban, suburban, and rural cities occurred sometime at the end of February 2019.
+rural cities: around $700 to $1,300 from beginning to end during this time. The chart further demonstrates similar peak times in all these types of cities. One notable peak in total fare is among urban, suburban, and rural cities occurred sometime at the end of February 2019.
+
+**A multiple-line graph that shows the total weekly fares for each city type**
 
 ![Fig8.png](https://github.com/Praveeja-Sasidharan-Suni/PyBer_Analysis/blob/main/Images/Fig8.png?raw=true)
 
