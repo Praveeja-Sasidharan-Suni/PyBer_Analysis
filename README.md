@@ -37,6 +37,8 @@ whereas the average fare per ride is about $25 in urban cities. Suburban cities'
  rural cities, it is a better market for drivers in this type of city. The average fare per driver is about $55 in rural cities, whereas the average fare per driver is about $17 in 
 urban cities. Suburban cities' average fare per driver is about $40.
 
+**A ride-sharing summary DataFrame by city type**
+
 ![pyber_summary.PNG](https://github.com/Praveeja-Sasidharan-Suni/PyBer_Analysis/blob/main/Images/pyber_summary.PNG?raw=true)
 
 -The multiple-line chart "Total Fare by City Type" further supports the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019
