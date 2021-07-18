@@ -7,13 +7,13 @@ by decision-makers at PyBer.
 
 ## Resources
 
-Data sources:city_data.csv and ride_data.csv
+Data sources:city_data.csv and ride_data.csv                     
+
 Software: Python 3.7.6,Padas and Matplotlib 
 
 ## Results
 
--A PyBer summary DataFrame is created based on The total number of rides for each city type,The total number of drivers for each city type,The sum of the fares for each city type,
-​The average fare per ride for each city type and The average fare per driver for each city type.
+-A PyBer summary DataFrame is created based on total number of rides for each city type,total number of drivers for each city type,sum of the fares for each city type, average fare per ride for each city type and The average fare per driver for each city type.
 
 -The summary demonstrates that there is a larger demand for PyBer riders in urban cities compared to suburban and rural cities. Between January 2019 and May 2019, 
 there were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural cities. 
